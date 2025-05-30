@@ -1,0 +1,49 @@
+nav{
+    background-color: aquamarine;
+    height: 200px;
+}
+nav h1{
+    color: darkorchid;
+    text-align: center;
+    transform: translateY(50px);
+    justify-content: space-between;
+}
+nav section{
+        justify-content: center;
+    text-align: end;
+
+}
+.button{
+     transform: translateX(50px);
+     transform: translateY(90px);
+    padding-left: 20px;
+    padding-right: 20px;
+    border:5px;
+    border-color: black;
+    
+
+
+}
+.sec1{
+    background-color: black;
+    color: white;
+}
+.sec1 h1{
+    text-align:center;
+}
+>sec1p{
+    text-align: center;
+
+}
+section table{
+    transform: translate(300px,50px);
+    font-size:30px;
+   
+    color: black;
+}
+.sec2{
+    background-color: blue;
+}
+img{
+   transform: translateY(-100px);
+}
